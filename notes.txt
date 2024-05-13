@@ -1,0 +1,8 @@
+Interepolation- To display dynamic data on html pages
+e.g. {{title}}
+
+data or property present in component.ts is called dynamic data
+
+// property 
+uses-
+limitions-not able to use operators keywords
